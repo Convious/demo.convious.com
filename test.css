@@ -1,0 +1,14 @@
+iframe {
+	margin: 0!important;
+	padding: 0 !important;
+	border: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100% !important;
+	width: 100%;
+}
+
+.searchBar {
+	text-align: center;
+}
